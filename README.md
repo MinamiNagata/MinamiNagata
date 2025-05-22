@@ -26,7 +26,7 @@ I am a Front-end Developer and Website Designer, and I have won numerous awards 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MrPopparit_Jangsawang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:popparitjangsawang@gmail.com)  
-<a href="[https://strong-stroopwafel-7d9039.netlify.app/](https://resplendent-biscotti-1c4ba5.netlify.app)" target="_blank">
+<a href="https://resplendent-biscotti-1c4ba5.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=google-chrome&logoColor=white"> 
 </a>
 

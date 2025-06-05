@@ -1,37 +1,173 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Popparit Jangsawang
-===========================================================================================================================================
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&width=550&lines=Hi+there!+I'm+Natchanon+Phonyiam+(Potter)+%F0%9F%91%8B;Game+Developer+%7C+Unity+%7C+AI+Systems;Passionate+about+Tech;Always+Building+Something..." alt="Typing SVG" />
+</p>
 
-Student at Thammasat Klong Luang School | Computer Science (AI)
----------------------------------------------------------------
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
+</p>
 
-I am a Front-end Developer and Website Designer, and I have won numerous awards in competitions.
+---
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [popparitjangsawang@gmail.com](mailto:popparitjangsawang@gmail.com)
-* 🧠  I'm learning Front End , Robot and AI
-* 🤝  I'm open to collaborating on Learning Ai with INTEL
-* ⚡  I love UX UI
+## 🧑‍🎓 About Me  
+🎓 Student at **Thammasat Klong Luang School** | Computer Science (AI)  
+🚀 Currently working on **ไม่บอก**  
+🧠 Learning: Unity Game Dev | AI Systems | Web Tech  
+📫 Email: [natchanon.p4512026@gmail.com](mailto:natchanon.p4512026@gmail.com)  
+📍 Location: ไม่บอก <br>
+🌿✨ I love combining cyberpunk aesthetics with nature and magic themes — blending technology with mysticism to create unique experiences.
 
-### Skills
+<br>
+<a href="https://strong-stroopwafel-7d9039.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+<br>
+<a href="/path-to-your-resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=readthedocs&logoColor=black">
+</a>
+
+---
+
+## ⚡ Technologies
+
+### 🎨 Frontend
+<a href="https://github.com/Lumnext">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,angular,bootstrap,tailwind,dart,flutter">
+</a>
+
+### 🖥️ Backend & API
+<a href="https://github.com/Lumnext">
+  <img src="https://skillicons.dev/icons?i=nodejs,java,fastapi,spring,nodejs,flask,firebase">
+</a>
+
+### 🗄️ Database & Cloud Services
+<a href="https://github.com/Lumnext">
+  <img src="https://skillicons.dev/icons?i=supabase,php,sqlite,mysql,mongodb,postgresql">
+</a>
+
+### 🔧 DevOps & OS
+<a href="https://github.com/Lumnext">
+<img src="https://skillicons.dev/icons?i=linux,windows,kubernetes,docker,github">
+</a>
+
+### 🛠️ Tools & Utilities
+<a href="https://github.com/Lumnext">
+  <img src="https://skillicons.dev/icons?i=notion,figma,vscode,pytorch,sketchup,blender,raspberrypi,arduino,postman">
+</a>
+
+### Scripting
+<a href="https://github.com/Lumnext">
+  <img src="https://skillicons.dev/icons?i=lua,cs,cpp,py">
+</a>
+
+### game engine
+<a href="https://github.com/Lumnext">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio">
+</a>
+
+---
+
+## 🧠 AI Projects
+- 🤖 **AI Dungeon Generator** – A GPT-powered system for generating dungeon storylines.
+- 📊 **Data Analyzer Bot** – A Python bot that analyzes gameplay stats in real-time.
+
+---
+
+## 🎮 Game Dev Projects
+- 🧱 [BLOCKBOTS](https://potter123.itch.io/blockbots) – Sandbox RPG in Unity.
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
+---
+
+## 📚 Featured Project  
+### 🎮 ไม่บอกชื่อหรอ บอกก็รู้ดิ
+> An **open-world RPG** with dungeon crawling, survival sandbox mechanics, and a dynamic magic-based story.
+
+
+---
+
+## 🌱 Currently Learning  
+- 🧠 Unity Game Development  
+- 🤖 AI / Machine Learning  
+- ⚛️ React & Vue Frameworks  
+  
+
+---
+
+## 🔥 My Top Languages
+<p align="center">
+  <a href="https://github.com/Lumnext">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumnext&layout=compact&langs_count=4&theme=tokyonight&title_color=00ffff&text_color=ffffff&bg_color=000000&border_color=00ffff&cache_seconds=3600" />
+  </a>
+</p>
+
+---
+  
+## 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Lumnext">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lumnext&show_icons=true&theme=radical&cache_seconds=1800" height="180"/><br>
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophy Case
+
+<p align="center">
+  <a href="https://github.com/Lumnext">
+    <img src="https://github-profile-trophy.vercel.app/?username=Lumnext&theme=onedark&row=1&margin-w=10&no-bg=true"/>
+  </a>
+</p>
+
+---
+
+## 🔗 Connect with Me  
+<p align="center">
+  <a href="https://discord.com/users/potter4399">
+    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/Lumnext/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/natchanon-py-8abb30352/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/yourprofile">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/yourprofile">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@yourprofile">
+    <img src="https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
 </p>
 
 
-# 💫 About Me:
-🎓 Student at Thammasat Klong Luang School | Computer Science <AI><br>🏆 I have competed in the Thailand Robot & Robotic Olympiad. <br>🏆 Won a Gold Medal for Web Application at the regional education level.<br>🏆 Received numerous Gold, Silver, and Bronze medals in various robotics competitions.<br>🧠 I have attended a Coding training with INTEL Thailand.<br><br><br><br>
+---
 
+## 🤝 Support Me  
+<br>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Lumnext">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+</p>
+<br>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Lumnext?style=for-the-badge&logo=github)"/>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MrPopparit_Jangsawang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:popparitjangsawang@gmail.com)  
-<a href="https://resplendent-biscotti-1c4ba5.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=google-chrome&logoColor=white"> 
-</a>
-
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+ 
+<p align="center">
+  <img src="https://count.getloli.com/get/@Lumnext.github.readme?theme=flat" alt="visitor count"/>
+</p>

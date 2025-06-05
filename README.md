@@ -13,7 +13,7 @@
 🎓 Student at **Thammasat Klong Luang School** | Computer Science (AI)  
 🚀 Currently working on **ไม่บอก**  
 🧠 Learning: Unity Game Dev | AI Systems | Web Tech  
-📫 Email: [natchanon.p4512026@gmail.com](mailto:natchanon.p4512026@gmail.com)  
+📫 Email: [popparitjangsawang@gmail.com](mailto:popparitjangsawang@gmail.com)  
 📍 Location: ไม่บอก <br>
 🌿✨ I love combining cyberpunk aesthetics with nature and magic themes — blending technology with mysticism to create unique experiences.
 

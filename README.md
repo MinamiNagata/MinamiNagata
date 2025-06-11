@@ -18,7 +18,7 @@
 🌿✨ I love combining cyberpunk aesthetics with nature and magic themes — blending technology with mysticism to create unique experiences.
 
 <br>
-<a href="https://strong-stroopwafel-7d9039.netlify.app/" target="_blank">
+<a href="https://resplendent-biscotti-1c4ba5.netlify.app/docs/home.html" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-00ffff?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 <br>
@@ -31,37 +31,23 @@
 ## ⚡ Technologies
 
 ### 🎨 Frontend
-<a href="https://github.com/Lumnext">
+<a href="https://github.com/MinamiNagata">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,angular,bootstrap,tailwind,dart,flutter">
 </a>
 
-### 🖥️ Backend & API
-<a href="https://github.com/Lumnext">
-  <img src="https://skillicons.dev/icons?i=nodejs,java,fastapi,spring,nodejs,flask,firebase">
-</a>
-
-### 🗄️ Database & Cloud Services
-<a href="https://github.com/Lumnext">
-  <img src="https://skillicons.dev/icons?i=supabase,php,sqlite,mysql,mongodb,postgresql">
-</a>
-
-### 🔧 DevOps & OS
-<a href="https://github.com/Lumnext">
-<img src="https://skillicons.dev/icons?i=linux,windows,kubernetes,docker,github">
-</a>
 
 ### 🛠️ Tools & Utilities
-<a href="https://github.com/Lumnext">
+<a href="https://github.com/MinamiNagata">
   <img src="https://skillicons.dev/icons?i=notion,figma,vscode,pytorch,sketchup,blender,raspberrypi,arduino,postman">
 </a>
 
 ### Scripting
-<a href="https://github.com/Lumnext">
+<a href="https://github.com/MinamiNagata">
   <img src="https://skillicons.dev/icons?i=lua,cs,cpp,py">
 </a>
 
 ### game engine
-<a href="https://github.com/Lumnext">
+<a href="https://github.com/MinamiNagata">
   <img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio">
 </a>
 
@@ -74,7 +60,7 @@
 ---
 
 ## 🎮 Game Dev Projects
-- 🧱 [BLOCKBOTS](https://potter123.itch.io/blockbots) – Sandbox RPG in Unity.
+- 🧱 [Robots challenge](https://www.facebook.com/photo/?fbid=1039621021541994&set=pcb.1039624608208302) – Robots.
 
 
 ---
@@ -96,7 +82,7 @@
 
 ## 🔥 My Top Languages
 <p align="center">
-  <a href="https://github.com/Lumnext">
+  <a href="https://github.com/MinamiNagata">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumnext&layout=compact&langs_count=4&theme=tokyonight&title_color=00ffff&text_color=ffffff&bg_color=000000&border_color=00ffff&cache_seconds=3600" />
   </a>
 </p>
@@ -106,7 +92,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Lumnext">
+  <a href="https://github.com/MinamiNagata">
     <img src="https://github-readme-stats.vercel.app/api?username=Lumnext&show_icons=true&theme=radical&cache_seconds=1800" height="180"/><br>
   </a>
 </p>
@@ -116,7 +102,7 @@
 ## 🏆 GitHub Trophy Case
 
 <p align="center">
-  <a href="https://github.com/Lumnext">
+  <a href="https://github.com/MinamiNagata">
     <img src="https://github-profile-trophy.vercel.app/?username=Lumnext&theme=onedark&row=1&margin-w=10&no-bg=true"/>
   </a>
 </p>
@@ -125,15 +111,15 @@
 
 ## 🔗 Connect with Me  
 <p align="center">
-  <a href="https://discord.com/users/potter4399">
+  <a href="https://github.com/MinamiNagata">
     <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/Lumnext/">
+  <a href="https://github.com/MinamiNagata">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/natchanon-py-8abb30352/">
+  <a href="https://github.com/MinamiNagata">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
@@ -153,21 +139,6 @@
 
 ---
 
-## 🤝 Support Me  
-<br>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/Lumnext">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
-<br>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Lumnext?style=for-the-badge&logo=github)"/>
-</p>
-
-<br>
- 
-<p align="center">
-  <img src="https://count.getloli.com/get/@Lumnext.github.readme?theme=flat" alt="visitor count"/>
+  <img src="https://count.getloli.com/get/@Lumi_Code.github.readme?theme=flat" alt="visitor count"/>
 </p>

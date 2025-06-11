@@ -32,18 +32,18 @@
 
 ### 🎨 Frontend
 <a href="https://github.com/MinamiNagata">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,angular,bootstrap,tailwind,dart,flutter">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue">
 </a>
 
 
 ### 🛠️ Tools & Utilities
 <a href="https://github.com/MinamiNagata">
-  <img src="https://skillicons.dev/icons?i=notion,figma,vscode,pytorch,sketchup,blender,raspberrypi,arduino,postman">
+  <img src="https://skillicons.dev/icons?i=notion,figma,vscode,sketchup,blender,arduino,">
 </a>
 
 ### Scripting
 <a href="https://github.com/MinamiNagata">
-  <img src="https://skillicons.dev/icons?i=lua,cs,cpp,py">
+  <img src="https://skillicons.dev/icons?i=cpp,py">
 </a>
 
 ### game engine
@@ -93,7 +93,7 @@
 
 <p align="center">
   <a href="https://github.com/MinamiNagata">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lumnext&show_icons=true&theme=radical&cache_seconds=1800" height="180"/><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Lumi_Code&show_icons=true&theme=radical&cache_seconds=1800" height="180"/><br>
   </a>
 </p>
 

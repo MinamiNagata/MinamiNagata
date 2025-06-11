@@ -78,12 +78,16 @@
 - ⚛️ React & Vue Frameworks  
   
 
+
+
+
+
 ---
 
 ## 🔥 My Top Languages
 <p align="center">
   <a href="https://github.com/MinamiNagata">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumnext&layout=compact&langs_count=4&theme=tokyonight&title_color=00ffff&text_color=ffffff&bg_color=000000&border_color=00ffff&cache_seconds=3600" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinamiNagata&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
   </a>
 </p>
 
@@ -93,7 +97,7 @@
 
 <p align="center">
   <a href="https://github.com/MinamiNagata">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lumi_Code&show_icons=true&theme=radical&cache_seconds=1800" height="180"/><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=MinamiNagata&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/><br>
   </a>
 </p>
 
@@ -103,7 +107,7 @@
 
 <p align="center">
   <a href="https://github.com/MinamiNagata">
-    <img src="https://github-profile-trophy.vercel.app/?username=Lumnext&theme=onedark&row=1&margin-w=10&no-bg=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=MinamiNagata&theme=onedark&row=1&margin-w=10&no-bg=true"/>
   </a>
 </p>
 

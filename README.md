@@ -60,7 +60,7 @@
 ---
 
 ## 🎮 Game Dev Projects
-- 🧱 [Robots challenge](https://www.facebook.com/photo/?fbid=1039621021541994&set=pcb.1039624608208302) – Robots.
+- 🏆[challenge](#) – Robots.
 
 
 ---
